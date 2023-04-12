@@ -32,3 +32,24 @@
 (b) - "b" is used to indicate bold text without any importance 
 (i) - "i" is used to display text with a different style or mood, often displayed with italic 
 (small) - "small" is used to display smaller sized text, often used for side comments and copyright logos.
+
+6. Explain block Elements and also explain the list of block elements and why they are used from below:
+(html) - 
+(head) - 
+(body) -
+(header) -
+(nav) -
+(main) - 
+(section) -
+(article) -
+(div) -
+(aside) - 
+(footer) - 
+(span) - 
+(small) -
+
+7. Explain why accessibility is important and also explain the accessibility properties like:
+Web accessibility is important because assistive technologies which help visually impaired users guide the web are needed for smooth user web page browsing. 
+(landmark roles) - Used to identify sections of a webpage
+(aria labels) - Used for providing a label for objects that can be read by assistive technology.
+(image alternative texts) - Helps assistive technologie describe images to the reader.

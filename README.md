@@ -11,7 +11,7 @@
 -Must start with an imperative verb: Create, Fix, Add, Solve, etc.
 -Pretend every commit starts with the phrase: “This commit will…”
 
-3. What is HTML? 
+3. What is HTML
 -HTML stands for the HyperText Markup Language which is the standard format to display documents in a web browser.
 
 4. Proper syntax for HTML tags 

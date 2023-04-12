@@ -26,7 +26,7 @@
 (img) - "img" is used to embed an image.
 (q) - "q" is used to define a quotation.
 (blockquote) - "blockquote" is used when the quotation is from another source.
-(cite) - ddd
+(cite) - 
 (em) - 
 (strong) - 
 (b) - 

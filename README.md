@@ -26,9 +26,9 @@
 (img) - "img" is used to embed an image.
 (q) - "q" is used to define a quotation.
 (blockquote) - "blockquote" is used when the quotation is from another source.
-(cite) - 
-(em) - 
-(strong) - 
-(b) - 
-(i) - 
-(small) -
+(cite) - "cite" is used when tagging creative work such as music, books, movies, etc.
+(em) - "em" is used to imply emphasis within text. 
+(strong) - "strong" is used for context with strong importance and typically displayed in bold.
+(b) - "b" is used to indicate bold text without any importance 
+(i) - "i" is used to display text with a different style or mood, often displayed with italic 
+(small) - "small" is used to display smaller sized text, often used for side comments and copyright logos.

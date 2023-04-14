@@ -49,7 +49,10 @@
 (small) - "small" is used to display smaller sized text, often used for side comments and copyright logos.
 
 7. Explain why accessibility is important and also explain the accessibility properties like:
-Web accessibility is important because assistive technologies which help visually impaired users guide the web are needed for smooth user web page browsing. 
+-Web accessibility is important because assistive technologies which help visually impaired users guide the web are needed for smooth user web page browsing. 
 (landmark roles) - Used to identify sections of a webpage
 (aria labels) - Used for providing a label for objects that can be read by assistive technology.
 (image alternative texts) - Helps assistive technologie describe images to the reader.
+
+8. What is CSS and how can we implement CSS to our html file (write a proper explanation with the code required to attach a CSS file inside html file)
+-CSS, standing for "Cascading Style Sheets" is the language which allows you to structure your code in a organized layout fashion. To implement CSS you must link CSS with your HTML. CSS is used to for the presentation of displaying fonts, colors, and the general arrangement of text and images.  

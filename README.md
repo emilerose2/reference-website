@@ -65,5 +65,8 @@ p {
 } 
 ("color" being the property and "red" being the value.)
 
+10. Why do we use border-box property in CSS? 
+-Border-box in CSS allows the browser to calculate and adjust elements width and height properties using border and padding values. Content will automatically adjust itself to fit within the Border-box values. 
+
 
 

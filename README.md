@@ -56,3 +56,14 @@
 
 8. What is CSS and how can we implement CSS to our html file (write a proper explanation with the code required to attach a CSS file inside html file)
 -CSS, standing for "Cascading Style Sheets" is the language which allows you to structure your code in a organized layout fashion. To implement CSS you must link CSS with your HTML. CSS is used to for the presentation of displaying fonts, colors, and the general arrangement of text and images.  
+
+9. What is the difference between CSS property and value (write explanation and an example code)
+-In CSS property is the aspect of a selector such as selecting the color, line-height or letter-spacing. Where as for value it specifies the value type, such as RGB, hex, length and %. 
+-an Example of this is;
+p {
+    color: red;
+} 
+("color" being the property and "red" being the value.)
+
+
+

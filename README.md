@@ -77,3 +77,6 @@ p {
 13. What are different types of display properties?
 -Most notibaly the primary display properties are inline/inline-block, flex/inline-flex, grid/inline-grid and many more. In order to implement grid/flex layouts you must apply these display properties.  
 
+14. Write a brief explanation of flexbox property 
+-Flexbox property in short is a layout configuration which allows the user to distribute space between items in a one-dimensional layout using values such as align-items, flex-direction, etc.  
+

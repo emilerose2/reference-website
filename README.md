@@ -71,5 +71,8 @@ p {
 11. Explain different type of ways we can add spacing to an element
 -In order to add extra spacing between elements in the CSS page you must apply padding and margin properties. Padding allows you to calculate the distance between content area and border value. Margin helps calculates extra space around an element.
 
+12. What is the main difference between margin and padding?
+-The main difference between margin and padding is padding represents the elements inner space between while margin is the exterior space around the elements border. 
+
 
 

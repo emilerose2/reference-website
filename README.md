@@ -80,3 +80,6 @@ p {
 14. Write a brief explanation of flexbox property 
 -Flexbox property in short is a layout configuration which allows the user to distribute space between items in a one-dimensional layout using values such as align-items, flex-direction, etc.  
 
+15. What are different types of flexbox properties and what is the major difference between them?
+-As briefly mentioned above, the different types of flexbox properties contain, flex, justify and align values. Flexbox allows for fine tuning and each value adjustment varies from box sizes, box order, columns, rows, spacing, and more. 
+

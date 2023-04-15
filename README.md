@@ -74,5 +74,6 @@ p {
 12. What is the main difference between margin and padding?
 -The main difference between margin and padding is padding represents the elements inner space between while margin is the exterior space around the elements border. 
 
-
+13. What are different types of display properties?
+-Most notibaly the primary display properties are inline/inline-block, flex/inline-flex, grid/inline-grid and many more. In order to implement grid/flex layouts you must apply these display properties.  
 

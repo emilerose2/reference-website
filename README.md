@@ -68,5 +68,8 @@ p {
 10. Why do we use border-box property in CSS? 
 -Border-box in CSS allows the browser to calculate and adjust elements width and height properties using border and padding values. Content will automatically adjust itself to fit within the Border-box values. 
 
+11. Explain different type of ways we can add spacing to an element
+-In order to add extra spacing between elements in the CSS page you must apply padding and margin properties. Padding allows you to calculate the distance between content area and border value. Margin helps calculates extra space around an element.
+
 
 

@@ -84,12 +84,13 @@ p {
 -As briefly mentioned above, the different types of flexbox properties contain, flex, justify and align values. Flexbox allows for fine tuning and each value adjustment varies from box sizes, box order, columns, rows, spacing, and more.
 
 16. Explain with code the use of flexbox property on a parent element and also explain the sub properties you might need for the flexbox property
+-Flexbox property uses of a parent element such as "nav" and applies values such as "margin" and "padding" to position and precisely space the navigation to the users HTML page.
+
+17. Write a code example on how you will use a flexbox property on a parent element with sub properties.
 nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
     display: flex;
   }
-
-
 

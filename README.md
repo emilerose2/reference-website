@@ -117,7 +117,11 @@ In short the difference between flexbox and display-grid is that flexbox allows 
 }
 
 23. What is the area property in CSS grid we use for the child elements?
-
+-In order to start and locate a grid's layout, we can apply to following properties to the child element.
+-grid-column-start
+-grid-row-start
+-grid-row-end
+-grid-column-end
 
 24. Which sub-property of display grid you can use to prevent displaying empty columns. Write a code example of that property.
 

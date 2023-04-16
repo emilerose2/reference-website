@@ -107,10 +107,9 @@ header {
 In short the difference between flexbox and display-grid is that flexbox allows you to only adjust either a row or a column in your layout, where as display-grid allows you to adjust both rows AND columns simultaneously.
 
 21. What sub-property we use to divide elements in CSS Grid properties?
-
+-To equaly devide sub sections in CSS grid we would use "fr" to represent the amount of times we would devide the grid.  
 
 22. What unit we use to fractionally divide the element width in CSS Grid property and what are others unit we can use alternatively? (Write a code example)
-
 
 23. What is the area property in CSS grid we use for the child elements?
 

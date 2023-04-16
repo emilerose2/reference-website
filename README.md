@@ -98,10 +98,15 @@ nav ul {
 -CSS grid property is a property which allows you yo set and adjust implicit grid properties, some specifics include; grid-template-rows, grid-template-columns, grid-auto-flow, etc. 
 
 19. Write the parent and two sub-properties used for CSS Grid Property
+header {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+}
 
 20. What is the difference between display: flex and display: grid?
 
 21. What sub-property we use to divide elements in CSS Grid properties?
+
 
 22. What unit we use to fractionally divide the element width in CSS Grid property and what are others unit we can use alternatively? (Write a code example)
 

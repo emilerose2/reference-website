@@ -104,6 +104,7 @@ header {
 }
 
 20. What is the difference between display: flex and display: grid?
+In short the difference between flexbox and display-grid is that flexbox allows you to only adjust either a row or a column in your layout, where as display-grid allows you to adjust both rows AND columns simultaneously.
 
 21. What sub-property we use to divide elements in CSS Grid properties?
 

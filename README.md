@@ -124,6 +124,9 @@ In short the difference between flexbox and display-grid is that flexbox allows 
 -grid-column-end
 
 24. Which sub-property of display grid you can use to prevent displaying empty columns. Write a code example of that property.
-
+-To prevent displaying empty columns you must apply "grid-auto-columns". Here is a code example;
+.container {
+    grid-auto-columns: 1fr
+}
 
 25. Explain the steps to add google fonts to your CSS file and how will you link it to the html file.

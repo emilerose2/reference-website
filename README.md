@@ -110,6 +110,11 @@ In short the difference between flexbox and display-grid is that flexbox allows 
 -To equaly devide sub sections in CSS grid we would use "fr" to represent the amount of times we would devide the grid.  
 
 22. What unit we use to fractionally divide the element width in CSS Grid property and what are others unit we can use alternatively? (Write a code example)
+-To divide a CSS grid we can use a unit of "fr" for example to divide into three it would be; 1fr, 1fr, 1fr. However to make things easier and more organized we can translate that to; 3, 1fr. Here is a code example;
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
 
 23. What is the area property in CSS grid we use for the child elements?
 

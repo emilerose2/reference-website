@@ -130,3 +130,13 @@ In short the difference between flexbox and display-grid is that flexbox allows 
 }
 
 25. Explain the steps to add google fonts to your CSS file and how will you link it to the html file.
+-In order to link different fonts to your HTML file, you first must go to: 
+https://fonts.google.com From here you can browse your desired font and even select different variations such as, italic, thin, bold and many more. 
+-Now that you have found your desired fonts you can now add them to the side bar and the website will embed and create a link which will be used in the HTML. 
+-Once the you have the link copied, the code will be applied like so:
+<head>
+<link rel="stylesheet" href="fonts.css">
+<link rel="preconnect" href-"https://fonts.google.com">
+<link href="https://fonts.googleapis.com/css2?family=Anuphan:wght@100&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+</head>
+
